@@ -1,4 +1,4 @@
-///Terminar de escribir la función que agregue propiedades al objeto "jesus"
+///Terminar de escribir la función que agregue propiedades al objeto "juan"
 
 let juan = {
   nombre: "Juan",
